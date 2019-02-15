@@ -16,5 +16,5 @@ Make sure you have Anaconda installed. To configure the virtual environment, run
 conda env create -f std_env.yml
 pip install chainercv
 ```
-### 
+### Dataset
 
