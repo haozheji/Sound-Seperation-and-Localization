@@ -1,4 +1,4 @@
-# Sound-Seperation-and-Localization
+# Sound-Separation-and-Localization
 
 A pytorch implementation of Cross-Modal Sound Seperation and Localization. 
 
