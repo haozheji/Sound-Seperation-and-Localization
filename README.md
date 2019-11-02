@@ -1,10 +1,10 @@
 # Sound-Separation-and-Localization
 
-A pytorch implementation of Cross-Modal Sound Seperation and Localization. 
+A pytorch implementation of Cross-Modal Sound Separation and Localization. 
 
 ## Introduction
 
-The Sound Seperation part is an implementation of the model proposed in [the Sound of Pixels](https://arxiv.org/pdf/1804.03160.pdf). The Sound Localization part is composed of a detection module to first decompose the sound spacially and then seperate the sound grounding its visual correspondence.
+The Sound Separation part is an implementation of the model proposed in [the Sound of Pixels](https://arxiv.org/pdf/1804.03160.pdf). The Sound Localization part is composed of a detection module to first decompose the sound spacially and then seperate the sound grounding its visual correspondence.
 
 ## Getting Started
 
